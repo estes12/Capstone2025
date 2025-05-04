@@ -1,6 +1,6 @@
-# Capstone2025
-Dice rolling simulator
+https://estes12.github.io/Capstone2025/
 
-User can add or subtract dice to roll using the + and - beside each die type, then click "Roll em" under the dice list and a 3D set of the chosen dice will roll and the total will display on the screen.
+As soon as I can get that working, that is the link to the web build.
 
-No special requirements to download and use the simulator.
+Simple dice rolling simulator. Use + and - to add or remove dice from rolls. 
+Click "Roll 'em" at bottom of page and selected dice will be rolled, the total of all dice in the roll will be calculated and displayed on the screen
